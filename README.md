@@ -1,0 +1,2 @@
+Repozytorium zawiera pikony produkcji zet71 i innych osób (jesli nie podałem to nie znam ich ników) oraz wtyczkę do e2 automatycznie pobierającą brakującą pikonę, jeśli takiej brakuje w systemie.
+Użytkownicy BH mają ją już w standardzie. ;)
