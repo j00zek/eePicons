@@ -3,9 +3,9 @@ echo "Example: /DuckboxDisk/github/eePicons/piconService/copyPicon.sh polstaseri
 echo 
 piconName=$1
 Source=$2
-[ -z $piconName ] && exit 1
+[ -z "$piconName" ] && exit 1
 #echo $piconName
-[ -z $Source ] && exit 1
+[ -z "$Source" ] && exit 1
 #echo $Source
 
 DestMain="/DuckboxDisk/github/eePicons/piconService"
